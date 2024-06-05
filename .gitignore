@@ -1,0 +1,6 @@
+.env
+daftar_surat/*
+node_modules/
+template_surat/*
+export/
+node_modules
